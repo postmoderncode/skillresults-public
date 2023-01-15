@@ -105,6 +105,7 @@ textarea {
 .demo_title {
     font-size: 24px;
     text-transform: uppercase;
+    padding-bottom: 10px;
 }
 
 .demo_description {
@@ -209,8 +210,7 @@ textarea {
 .learn_description {
     color: #ffffff;
     line-height: 2em;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .learn_feature_title {
@@ -218,6 +218,16 @@ textarea {
     color: #ffffff;
     font-size: 24px;
     margin-bottom: 10px;
+}
+
+.learn_navlink {
+    color: #ffffff;
+    text-decoration:underline;
+}
+
+.learn_navlink:hover {
+    color: #e08d10;
+    text-decoration: underline;
 }
 
 /*Contact Area*/
@@ -233,11 +243,13 @@ textarea {
 .contact_title {
     font-size: 20pt;
     text-transform: uppercase;
+    margin-bottom: 10px;
 }
 
 .contact_description {
-    font-size: 15pt;
+    font-size: 12pt;
     line-height: 2em;
+    margin-bottom: 30px;
 }
 
 .contact_text_button {
@@ -290,6 +302,12 @@ textarea {
 
 .footer_navlink {
     color: #ffffff;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+.footer_navlink:hover {
+    color: #e08d10;
     margin-right: 5px;
     text-decoration: none;
 }
