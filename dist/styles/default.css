@@ -260,6 +260,24 @@ textarea {
     border-radius: 10px;
 }
 
+/*Industry Use Case Area*/
+
+.modal-title {
+
+    font-size:larger;
+    font-weight: bold;
+    margin-bottom:15px;
+}
+
+.industries_title {
+    font-size: medium;
+    font-weight: bold;
+}
+
+.industries_text {
+    margin-bottom:50px;
+}
+
 /*Footer Area*/
 
 .footer_area {
