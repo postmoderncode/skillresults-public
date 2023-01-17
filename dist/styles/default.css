@@ -114,6 +114,17 @@ textarea {
     line-height: 2em;
 }
 
+.demo_button {
+    margin-right: 5px;
+    margin-left: 5x;
+    margin-top: 5px;
+    padding: 5px 15px;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 5px;
+    display: inline-block;
+}
 /*Pricing Area*/
 
 .pricing_area {
@@ -284,6 +295,7 @@ textarea {
 .industries_title {
     font-size: medium;
     font-weight: bold;
+    padding-bottom: 15px;
 }
 
 .industries_text {
