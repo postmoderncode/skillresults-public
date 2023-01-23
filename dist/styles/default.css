@@ -263,6 +263,16 @@ textarea {
     margin-bottom: 30px;
 }
 
+.contact_navlink {
+    color: #ffffff;
+    text-decoration:none;
+}
+
+.contact_navlink:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
 .contact_text_button {
     width: 60%;
     border-radius: 5px;
